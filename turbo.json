@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build:clean": {},
+    "build:js": {}
+  }
+}
