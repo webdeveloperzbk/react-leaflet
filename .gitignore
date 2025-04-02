@@ -1,0 +1,7 @@
+node_modules
+lib
+coverage
+node-compile-cache
+.turbo
+.vercel
+.pnpm-store
