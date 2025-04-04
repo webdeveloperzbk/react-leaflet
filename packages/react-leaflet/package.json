@@ -1,6 +1,6 @@
 {
   "name": "@webdeveloperzbk/react-leaflet",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "React components for Leaflet maps",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
     "prepublishOnly": "package-check"
   },
   "dependencies": {
-    "@webdeveloperzbk/react-leaflet-core": "workspace:^"
+    "@webdeveloperzbk/react-leaflet-core": "^3.0.0"
   },
   "peerDependencies": {
     "@webdeveloperzbk/leaflet": "^1.9.2",
